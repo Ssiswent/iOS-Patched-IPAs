@@ -1,1 +1,2 @@
+OnDemandResources/** filter=lfs diff=lfs merge=lfs -text
 TestBigFiles/** filter=lfs diff=lfs merge=lfs -text
